@@ -1041,8 +1041,8 @@ section {
 }
 
 .counts .image {
-  background: url("../img/hero-bg.jpg") center center no-repeat;
-  background-size: cover;
+  background: url("../img/AYCA\ FULL\ LOGO.png") center center no-repeat;
+  background-size: auto;
   min-height: 400px;
 }
 
